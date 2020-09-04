@@ -50,7 +50,7 @@ const About = () => {
                     target="_blank"
                     rel="noopener noreferrer"
                     className="cta-btn cta-btn--resume"
-                    href="resume"
+                    href="https://drive.google.com/file/d/1cJsST3HRpAVStxYieW2usSYYbqrrKadg/view?usp=sharing"
                   >
                     Resume
                   </a>
