@@ -41,8 +41,9 @@ class Header extends React.Component {
               <br />
               <div className="hero-subtitle">
                 {"I'm a "}
-                
+
                 <Typewriter
+                  className="hero-subtitle"
                   options={
                     {
                       strings: [' Developer.', ' Creative Designer.', ' Learner.'],

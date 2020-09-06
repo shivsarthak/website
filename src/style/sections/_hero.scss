@@ -40,7 +40,7 @@
       text-align: center;
     }
     @include respond(phone) {
-      font-size: 3.5rem;
+      font-size: 3.2rem;
       line-height: 1.5;
     }
     @include respond(phone-xs) {
@@ -51,25 +51,26 @@
   .hero-subtitle {
     display: inline-flex;
     gap: 1rem;
-    font-size: 5.6rem;
-    font-weight: 600;
+    font-size: 3.6rem;
+    font-weight: 700;
     text-align: left;
     flex-flow: row;
     flex-wrap: wrap;
     
     @include respond(tab-land) {
-      font-size: 4rem;
+      font-size: 3rem;
     }
     @include respond(tab-port) {
-      font-size: 3.6rem;
+      font-size: 2.8rem;
       text-align: center;
     }
     @include respond(phone) {
-      font-size: 3.5rem;
+      font-size: 2.6rem;
       line-height: 1.5;
+      justify-content: center;
     }
     @include respond(phone-xs) {
-      font-size: 2.8rem;
+      font-size: 2rem;
     }
   }
   .hero-cta {
