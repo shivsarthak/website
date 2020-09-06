@@ -1,5 +1,6 @@
 /* eslint-disable react/destructuring-assignment */
 /* eslint-disable prettier/prettier */
+import window from 'global'
 import React from 'react';
 import { Container } from 'react-bootstrap';
 import Fade from 'react-reveal/Fade';
