@@ -17,7 +17,7 @@ export const projectsData = [{
         title: 'Sh0r.tk - Simple URL shortener',
         info: 'A simple URL shortener made using Node.js, HTML, MongoDB and Express.',
         info2: 'A simple one day project',
-        url: 'https://sh0r-tk.herokuapp.com',
+        url: 'http://sh0r.tk',
         repo: 'https://github.com/shivsarthak/sh0r.tk', // if no repo, the button will not show up
     }
 ];
