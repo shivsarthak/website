@@ -34,7 +34,7 @@ const About = () => {
             <Fade left={isDesktop} bottom={isMobile} duration={1000} delay={1000} distance="30px">
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
-                  Hey I am Shiv Sarthak Sabhlok. I’m 19 years old and I’m a programmer ,graphics
+                  Hey I am Shiv Sarthak Sabhlok. I’m 20 years old and I’m a programmer ,graphics
                   designer ,video editor and a student.
                 </p>
                 <p className="about-wrapper__info-text">
@@ -50,7 +50,7 @@ const About = () => {
                     target="_blank"
                     rel="noopener noreferrer"
                     className="cta-btn cta-btn--resume"
-                    href="https://drive.google.com/file/d/1cJsST3HRpAVStxYieW2usSYYbqrrKadg/view?usp=sharing"
+                    href="https://docs.google.com/document/d/1vl2Q4pPaAQV39iaHLid42x0NWjvNZX43eDw2ZT7bsR4/edit?usp=sharing"
                   >
                     Resume
                   </a>
